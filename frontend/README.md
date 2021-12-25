@@ -8,6 +8,8 @@
 * Log in email: user@example.com
 * Password: 123456
 
+* Github link: https://github.com/hmzsumon/price-calculater
+
 ## Available Scripts
 
 In the project directory, you can run:
